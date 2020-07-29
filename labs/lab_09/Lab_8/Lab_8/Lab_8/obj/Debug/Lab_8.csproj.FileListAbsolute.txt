@@ -1,0 +1,72 @@
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+D:\Crypto\Part 2\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+D:\Crypto\Part 2\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8.g.resources
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+D:\Crypto\Part 2\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.g.cs
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\App.g.cs
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.cache
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.lref
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.baml
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.g.resources
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\maksim.stsefanenka\Downloads\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.g.cs
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\App.g.cs
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.cache
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.lref
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.baml
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.g.resources
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\maksim.stsefanenka\Desktop\Study\крипта урбанович\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.g.cs
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\App.g.cs
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.cache
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.lref
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.baml
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.g.resources
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+D:\Study\КМЗИ\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.g.cs
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\App.g.cs
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.cache
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8_MarkupCompile.lref
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\MainWindow.baml
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.g.resources
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+G:\LEARN\6 сем\КМЗИ\labs\9\Lab_8\Lab_8\Lab_8\obj\Debug\Lab_8.pdb

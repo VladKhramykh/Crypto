@@ -1,0 +1,14 @@
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\BBS\BBS\bin\Debug\BBS.exe.config
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\BBS\BBS\bin\Debug\BBS.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\BBS\BBS\bin\Debug\BBS.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\BBS\BBS\obj\Debug\RSA_RC4.csprojAssemblyReference.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\BBS\BBS\obj\Debug\RSA_RC4.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\BBS\BBS\obj\Debug\BBS.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\BBS\BBS\obj\Debug\BBS.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\programm\BBS\bin\Debug\BBS.exe.config
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\programm\BBS\bin\Debug\BBS.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\programm\BBS\bin\Debug\BBS.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\programm\BBS\obj\Debug\RSA_RC4.csprojAssemblyReference.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\programm\BBS\obj\Debug\RSA_RC4.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\programm\BBS\obj\Debug\BBS.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_08\programm\BBS\obj\Debug\BBS.pdb

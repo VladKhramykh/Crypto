@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{62719349-267D-4BEE-8531-C8ED9EBB9AF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DES/DES.cs">
+    <Files>
+      <File FileName="DES/Program.cs" Line="13" Column="1" />
+      <File FileName="DES/DES.cs" Line="304" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DES" expanded="True">
+            <Node name="DES" expanded="True">
+              <Node name="DES.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DES PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

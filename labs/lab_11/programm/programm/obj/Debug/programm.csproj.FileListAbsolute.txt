@@ -1,0 +1,15 @@
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\bin\Debug\programm.exe.config
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\bin\Debug\programm.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\bin\Debug\programm.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm.csprojAssemblyReference.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\MainWindow.g.cs
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\App.g.cs
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm_MarkupCompile.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm_MarkupCompile.lref
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\MainWindow.baml
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm.g.resources
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm.Properties.Resources.resources
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm.csproj.GenerateResource.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_11\programm\programm\obj\Debug\programm.pdb

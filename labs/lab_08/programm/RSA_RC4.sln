@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA_RC4", "BBS\RSA_RC4.csproj", "{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A8E1019-8832-4674-984C-A4AEFD6AC407}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\bin\Debug\lab_05.exe.config
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\bin\Debug\lab_05.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\bin\Debug\lab_05.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\MainWindow.g.cs
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\App.g.cs
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05_MarkupCompile.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05_MarkupCompile.lref
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\MainWindow.baml
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05.g.resources
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05.Properties.Resources.resources
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05.csproj.GenerateResource.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_05\programm\lab_05\lab_05\obj\Debug\lab_05.csprojAssemblyReference.cache

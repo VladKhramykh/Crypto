@@ -1,0 +1,12 @@
+/Users/dianaagapkina/Desktop/DES/DES/bin/Debug/DES.exe
+/Users/dianaagapkina/Desktop/DES/DES/bin/Debug/DES.pdb
+/Users/dianaagapkina/Desktop/DES/DES/obj/Debug/DES.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/DES/DES/obj/Debug/DES.exe
+/Users/dianaagapkina/Desktop/DES/DES/obj/Debug/DES.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_07\DES\DES\bin\Debug\DES.exe.config
+G:\LEARN\6 сем\КМЗИ\labs\lab_07\DES\DES\bin\Debug\DES.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_07\DES\DES\bin\Debug\DES.pdb
+G:\LEARN\6 сем\КМЗИ\labs\lab_07\DES\DES\obj\Debug\DES.csprojAssemblyReference.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_07\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+G:\LEARN\6 сем\КМЗИ\labs\lab_07\DES\DES\obj\Debug\DES.exe
+G:\LEARN\6 сем\КМЗИ\labs\lab_07\DES\DES\obj\Debug\DES.pdb

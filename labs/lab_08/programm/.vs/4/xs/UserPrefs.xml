@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{ABF7DF6C-8CE3-49B1-9DEA-5F643B6C4176}|Default">
+  <MonoDevelop.Ide.ItemProperties.BBS__RC4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BBS/Program.cs">
+    <Files>
+      <File FileName="BBS/Program.cs" Line="22" Column="13" />
+      <File FileName="BBS/BBS.cs" Line="29" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4" expanded="True">
+            <Node name="4" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
